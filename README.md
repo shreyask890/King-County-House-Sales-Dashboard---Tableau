@@ -13,3 +13,5 @@ Visualizations
 Line Charts: These charts provide a daily overview of price changes over time.
 Histograms: Display the distribution of various property features such as number of bedrooms, bathrooms, and square footage.
 Heatmaps: Visualize the impact of property conditions and views on the prices, offering a clear picture of how these factors affect market value.
+
+![King County Sales](https://github.com/user-attachments/assets/13828529-cf04-4697-8524-2f91de9ac411)
