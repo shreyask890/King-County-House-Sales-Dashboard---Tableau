@@ -1,4 +1,4 @@
-# King-County-House-Sales-Dashboard---Tableau
+# King-County-House-Sales-Dashboard-Tableau
 
 This project provides an insightful analysis of the King County housing market trends through an interactive dashboard. The dashboard allows users to explore various aspects of the housing market by filtering data based on date and property characteristics. Geospatial analysis highlights regional variations, while various visualizations track price fluctuations and the impact of property conditions and views on prices.
 
